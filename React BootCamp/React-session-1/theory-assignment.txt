@@ -1,0 +1,13 @@
+Question: What is Emmet? 
+Answer: It is a set of plug-ins form text editors that allow for high-speed coding and editing in HTML,XML etc. 
+
+Question: Whats is CDN? Why do we use it?
+Answer: CDN or content delivery networks is a network of the servers linked together with the goal of delivering content as quickly as possible.
+
+Question: What is CROSSORIGIN in script tag? 
+Answer: The crossorigin attribute on the script tag provides supports for CORS (Cross Origin Resource sharing) define how the elements handles cross-origin requests.
+
+Question: What is async and defer?
+Answer: 
+    async => The Script will be fetched in parallel to HTML parsing and executed as soon as it is available.
+    defer => The script is fetched in parallel to HTML parsing and executed when the page has finished parshing of the HTML. Each defer script is executed in order they were encounted in the document.
